@@ -1,14 +1,6 @@
-# Hi, I'm Rishi Kumar Jha 👋  
-🎯 Aspiring Data Analyst | 💻 BCA Student | 📊 Excel | SQL | Python | Power BI  
-
-## 📚 What I'm Learning:
-- Excel for Data Cleaning & Analysis
-- SQL (Joins, Subqueries, Aggregates)
-- Power BI (Dashboard & Reporting)
-- Statistics (Mean, Median, Regression)
-
-## 🛠️ Tools & Tech:
-`Excel` `SQL` `Power BI`
+Hi, I'm Rishi
+BCA student at Chitkara University
+Currently learning coding & technology 💻
 
 
 ## 📫 Connect With Me:
