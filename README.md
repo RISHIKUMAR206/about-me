@@ -1,4 +1,4 @@
-👋 Welcome to My GitHub
+👋 Welcome to My GitHub Profile
 
 Hello, I’m Rishi, a BCA student at Chitkara University.
 
